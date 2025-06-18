@@ -1,2 +1,2 @@
 # ViSP
-Our code will be released soon
+Our dataset and code will be released soon.
